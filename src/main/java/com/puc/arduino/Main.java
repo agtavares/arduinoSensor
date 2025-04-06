@@ -26,7 +26,7 @@ public class Main {
 		}
 	}
 
-	private static List<Sensor> transformSerialToSensor(String responseSerial) {
+	public static List<Sensor> transformSerialToSensor(String responseSerial) {
 
 		String charDelimiterFromSensorData = ";";
 		sensors = new ArrayList<Sensor>();
