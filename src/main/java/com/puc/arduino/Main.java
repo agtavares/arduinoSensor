@@ -8,14 +8,12 @@ import java.util.List;
 public class Main {
 
     private static List<Sensor> sensors;
+	private static final SerialPortAccess managerPort = new SerialPortAccess();
+	private static final String portName = "COM1";
 
 	public static void main(String[] args)  {
 
-        SerialPortAccess managerPort = new SerialPortAccess();
-
-        String portName = "COM1";
-        managerPort.connect(portName);
-
+		managerPort.connect(portName);
 		// aqqui seriam lidos os valorem vindos da porte serial pelo arduino
 		// String response = managerPort.readSerial();
 

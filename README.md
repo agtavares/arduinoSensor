@@ -12,6 +12,7 @@
     * prototype_arduino_UI.jpg   - prototype for UI tho this app
     * prototype_java.jpg         - output from java execution code
     * prototype_tinkercad.jpg    - arduino project execution on tinkercad site
+    * class_diagram.jpg          - class diagram
     
   - "arduino" folder contains these files:
   
