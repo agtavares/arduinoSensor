@@ -17,6 +17,10 @@
   - "arduino" folder contains these files:
   
     * sensor.cpp              - source code for execution on tinkercad
+
+  - "video" folder contains the project presentation
+  
+    * apresentacao.rar file (decompress rar file)
  
     
 - TinkerCad URL Project:
