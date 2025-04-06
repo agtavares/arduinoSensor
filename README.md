@@ -5,11 +5,17 @@
  * the code will generate some samples values of arduino sensors on the screen
 
 
-- Images for project located on folder "src\resource\images"
+- "resources" folder contains images for project and also the c++ file source code for execution on tinkercad
+
+  - "images" folder contains those files:
   
-  *  prototype_arduino_UI.jpg   - prototype for UI tho this app
-  *  prototype_java.jpg         - output from java execution code
-  *  prototype_tinkercad.jpg    - arduino project execution on tinkercad site
+    * prototype_arduino_UI.jpg   - prototype for UI tho this app
+    * prototype_java.jpg         - output from java execution code
+    * prototype_tinkercad.jpg    - arduino project execution on tinkercad site
+    
+  - "arduino" folder contains these files:
+  
+    * sensor.cpp              - source code for execution on tinkercad
  
     
 - TinkerCad URL Project:
