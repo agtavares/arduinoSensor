@@ -6,17 +6,10 @@
 
 
 - "resources" folder contains images for project and also the c++ file source code for execution on tinkercad
-
-  - "images" folder contains those files:
+ 
+- "arduino" folder contains these files:
   
-    * prototype_arduino_UI.jpg   - prototype for UI tho this app
-    * prototype_java.jpg         - output from java execution code
-    * prototype_tinkercad.jpg    - arduino project execution on tinkercad site
-    * class_diagram.jpg          - class diagram
-    
-  - "arduino" folder contains these files:
-  
-    * sensor.cpp              - source code for execution on tinkercad
+  * sensor.cpp              - source code for execution on tinkercad
 
     
 - TinkerCad URL Project:
